@@ -32,6 +32,7 @@ Welcome to my GitHub profile!
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/sejaltade03
+- Email: sejaltade03@gmail.com
 
 ### ✨ My Goal
 
