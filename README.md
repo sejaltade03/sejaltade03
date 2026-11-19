@@ -7,15 +7,15 @@ Welcome to my GitHub profile!
 
 - 💻 Interested in Python Development and AI/ML.
 
-🤖 Exploring Generative AI and Large Language Models.
+- 🤖 Exploring Generative AI and Large Language Models.
 
-📊 Interested in Data Analytics and Data Visualization.
+- 📊 Interested in Data Analytics and Data Visualization.
 
-🚀 Building practical projects to strengthen my technical skills.
+- 🚀 Building practical projects to strengthen my technical skills.
 
-🌱 Continuously learning and improving my development skills.
+- 🌱 Continuously learning and improving my development skills.
 
-🎯 Looking for entry-level opportunities in the IT industry.
+- 🎯 Looking for entry-level opportunities in the IT industry.
 ### 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
