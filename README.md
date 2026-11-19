@@ -5,12 +5,17 @@
 
 Welcome to my GitHub profile! 
 
-- 🔭 I am working on Python and AI projects.
-- 🌱 I am learning Machine Learning, Deep Learning and SQL.
-- 💻 I enjoy building real-world projects.
-- 🤖 Interested in Artificial Intelligence and Automation.
-- 📌 Currently working on Automatic Number Plate Recognition using CNN.
+- 💻 Interested in Python Development and AI/ML.
 
+🤖 Exploring Generative AI and Large Language Models.
+
+📊 Interested in Data Analytics and Data Visualization.
+
+🚀 Building practical projects to strengthen my technical skills.
+
+🌱 Continuously learning and improving my development skills.
+
+🎯 Looking for entry-level opportunities in the IT industry.
 ### 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
